@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Allroutes from './routes/Allroutes';
 
 function App() {
   return (
     <div className="App">
-      <h1>Gandhi</h1>
+     <Allroutes/>
     </div>
   );
 }
